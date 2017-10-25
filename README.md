@@ -18,7 +18,7 @@ This is an example of creating, deploying and invoking of AWS Lambda Functions w
 ## Test
 
 * Write: `curl -H "Content-Type: application/json" -X POST -d '{"text":"blablabalbla"}' <url>`
-* Read: `curl https://3z0atjqhu5.execute-api.eu-west-1.amazonaws.com/dev/todos`
+* Read: `curl <url>`
 
 
 ## Undeploy
